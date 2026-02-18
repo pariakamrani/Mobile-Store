@@ -1,0 +1,106 @@
+ [
+    {
+        "id": 1,
+        "apiId":"watch",
+        "title": "ساعت هوشمند اپل Apple Watch Series 9 SE سایز 40 میلیمتر",
+        "price": 64000000,
+        "img": "watch1.jpg"
+    },
+    {
+        "id": 2,
+        "apiId":"watch",
+        "title": "اپل واچ سری ۱۰ آلومینیوم رنگ نقره‌ای - سایز ۴۲ میلی‌متر-گارانتی ۶ ماهه",
+        "price": 75000000,
+        "img": "watch2.webp"
+    },
+    {
+        "id": 3,
+        "apiId":"watch",
+        "title": "ساعت هوشمند طرح اپل واچ اولترا مدل Z66 Ultra - ریمووین",
+        "price": 119000000,
+        "img": "watch3.webp"
+    },
+    {
+        "id": 4,
+        "apiId":"watch",
+        "title": "ساعت هوشمند اپل واچ سری 9 Apple Watch Ultra 2 Ocean 49mm – فروشگاه ...",
+        "price": 124000000,
+        "img": "watch4.jpg"
+    }, {
+        "id": 5,
+        "apiId":"watch",
+        "title": "قیمت و خرید ساعت هوشمند اپل واچ سری 10 مدل Apple Watch Series SE10 ...",
+        "price": 150000000,
+        "img": "watch5.jpg"
+    },
+    {
+        "id": 6,
+        "apiId":"watch",
+        "title": "خرید و قیمت ساعت هوشمند اپل سری 7 مدل 45 میل |",
+        "price": 60000000,
+        "img": "watch6.jpg"
+    },
+    {
+        "id": 7,
+        "apiId":"watch",
+        "title": "خرید اپل واچ سری 9 بند صورت",
+        "price": 95000000,
+        "img": "watch7.png"
+    },
+    {
+        "id": 8,
+        "apiId":"watch",
+        "title": "مت و خرید ساعت مچی مردانه زنانه اپل واچ(Apple Watch) مدل ",
+        "price": 95000000,
+        "img": "watch8.webp"
+    },
+    {
+        "id": 9,
+        "apiId":"watch",
+        "title": "قیمت اپل واچ se ، خرید Apple Watch SE و مشخصات",
+        "price": 95000000,
+        "img": "watch9.jpg"
+    },
+
+    {
+        "id": 10,
+        "apiId":"watch",
+        "title": "Apple watch 10 Series ۴۶mm",
+        "price": 95000000,
+        "img": "watch10.jpg"
+    },
+
+    {
+        "id": 11,
+        "apiId":"watch",
+        "title": "خرید ساعت هوشمند طرح اپل واچ سری 10 ",
+        "price": 95000000,
+        "img": "watch11.png"
+    },
+
+    {
+        "id": 12,
+        "apiId":"watch",
+        "title": "بهترین ساعت هوشمند طرح اپل واچ؛ راهنمای خرید + معرفی مدل ها",
+        "price": 95000000,
+        "img": "watch12.webp"
+    },
+
+    {
+        "id": 13,
+        "apiId":"watch",
+        "title": "اپل واچ 7 (41 میلیمتری) – Apple Watch 7 41mm ",
+        "price": 95000000,
+        "img": "watch13.webp"
+    },
+
+    {
+        "id": 14,
+        "apiId":"watch",
+        "title": "مشخصات فنی و قیمت ساعت هوشمند اپل واچ سری 5 ",
+        "price": 95000000,
+        "img": "watch14.jpg"
+    }
+
+
+]
