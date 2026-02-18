@@ -1,0 +1,19 @@
+@import "tailwindcss";
+.slick-slide  {
+  display: flex !important;
+  justify-content: center !important;
+}
+.slider-container .slick-slider,
+.slider-container .slick-list,
+.slider-container .slick-track {
+  overflow: hidden !important;
+}
+.slide-item {
+  width: 400px !important;
+}
+.hrederr{
+  direction: rtl;
+}
+/* .ShadowForCarousel{
+box-shadow: none 20px gray;
+} */
