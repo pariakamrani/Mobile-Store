@@ -9,7 +9,7 @@ function IntoduceWatch() {
                     {/* IMAGE */}
                     <div className="w-full flex justify-center  overflow-hidden">
                         <img
-                            src="./img/watch7.png"
+                            src={`${import.meta.env.BASE_URL}img/watch7.jpg`}
                             alt="watch"
                             className="w-full max-w-[400px] md:max-w-[550px] object-contain"
                         />

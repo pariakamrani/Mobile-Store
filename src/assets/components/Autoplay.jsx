@@ -94,7 +94,7 @@ function AutoPlay(){
                                 {/* متن (قفل شده) */}
                                 <div className="h-[25%] px-6 py-4 flex flex-col items-center justify-center gap-2 ">
                                     <p className="text-xl font-semibold text-gray-900">
-                                        {items.price}
+                                        {items.price.toLocaleString()}
                                     </p>
 
                                     <p className="text-base font-medium text-gray-600 line-clamp-2 text-center">
